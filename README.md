@@ -11,4 +11,11 @@
 - 👯 I’m looking to collaborate on: **Learning and contributing to Go projects**
 - 🚀 I enjoy creating seamless user experiences and am constantly exploring ways to improve front-end architecture.
 - 📚 Always learning: clean code practices, testing tools like Playwright, and backend integration.
-**
+
+
+### 📈 GitHub Stats
+
+![Hemah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemahg&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemahg&layout=compact)
+
